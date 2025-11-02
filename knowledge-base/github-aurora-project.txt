@@ -1,0 +1,174 @@
+Aurora Design System - GitHub Repository Guide
+
+Repository: https://github.com/JieHan-eng/aurora-design-system
+Team: UX Team (Product Department)
+Project Lead: Rania Boutros (UX Lead)
+Project Manager: Marta Kowalska
+
+ABOUT THE PROJECT
+-----------------
+The Aurora Design System is Raspberry Coffee's next-generation design and component framework. It delivers a cohesive, accessible, and sensory-rich experience across hardware and software. Built as a Figma + React component library, it standardizes color tokens, typography, motion, and layout spacing across all Raspberry products.
+
+REPOSITORY STRUCTURE
+--------------------
+aurora-design-system/
+├── src/
+│   ├── components/     # React components
+│   ├── tokens/         # Design tokens (colors, spacing, typography)
+│   ├── utils/          # Helper functions
+│   └── styles/         # Global styles
+├── .storybook/         # Storybook configuration
+├── docs/               # Documentation
+├── tests/              # Test files
+└── package.json
+
+GETTING STARTED
+---------------
+1. Clone the repository:
+   git clone https://github.com/JieHan-eng/aurora-design-system.git
+   cd aurora-design-system
+
+2. Install dependencies:
+   npm install
+   
+3. Run Storybook (development):
+   npm run storybook
+   
+4. Run tests:
+   npm test
+
+5. Build the library:
+   npm run build
+
+TECH STACK
+----------
+- React 18+
+- TypeScript
+- Storybook 7.x
+- Tailwind CSS
+- Figma API (for token sync)
+- axe-core (accessibility testing)
+- Jest + React Testing Library
+
+CONTRIBUTING GUIDELINES
+-----------------------
+1. Create a feature branch from main:
+   git checkout -b feature/component-name
+
+2. Follow naming conventions:
+   - Components: PascalCase (Button.tsx)
+   - Hooks: camelCase with "use" prefix (useTheme.ts)
+   - Utilities: camelCase (formatDate.ts)
+
+3. Write tests for all components:
+   - Unit tests with Jest
+   - Accessibility tests with axe-core
+   - Visual regression tests in Storybook
+
+4. Update Storybook stories:
+   - Create a .stories.tsx file for each component
+   - Document all props and variants
+   - Include usage examples
+
+5. Sync design tokens:
+   - Run npm run sync-figma to pull latest tokens
+   - Commit token changes separately
+
+6. Submit a pull request:
+   - Write clear PR description
+   - Link related Jira tickets
+   - Request review from Rania Boutros or Diego Alvarez
+   - Ensure all CI checks pass
+
+CODE STYLE
+----------
+- Follow Prettier configuration
+- Use ESLint rules (no warnings allowed)
+- TypeScript strict mode enabled
+- Prefer functional components with hooks
+- Use named exports (not default exports)
+
+DESIGN TOKENS
+-------------
+Tokens are synced from Figma and stored in src/tokens/:
+- colors.ts - Color palette (primary, secondary, semantic)
+- spacing.ts - Spacing scale (4px base)
+- typography.ts - Font families, sizes, weights
+- shadows.ts - Elevation system
+- motion.ts - Animation durations and easings
+
+ACCESSIBILITY REQUIREMENTS
+---------------------------
+All components must:
+- Pass WCAG 2.1 AA standards
+- Support keyboard navigation
+- Include ARIA labels where needed
+- Maintain 4.5:1 contrast ratio for text
+- Work with screen readers
+
+TESTING STRATEGY
+----------------
+- Unit tests: 80%+ coverage required
+- Integration tests: Key user flows
+- Visual tests: Automated screenshot comparison
+- Accessibility tests: Run axe-core on all components
+- Manual testing: Test in Chrome, Safari, Firefox
+
+DEPLOYMENT
+----------
+The package is published as @raspberry-coffee/aurora to NPM (private registry).
+Only maintainers can publish:
+- Rania Boutros (UX Lead)
+- Priya Nair (Director of Application Engineering)
+
+USEFUL COMMANDS
+---------------
+npm run storybook       # Start Storybook dev server
+npm run build           # Build the library
+npm run test            # Run all tests
+npm run test:watch      # Run tests in watch mode
+npm run lint            # Check for linting errors
+npm run format          # Format code with Prettier
+npm run sync-figma      # Sync design tokens from Figma
+npm run chromatic       # Run visual regression tests
+
+COMMON ISSUES
+-------------
+Q: Figma tokens not syncing?
+A: Check FIGMA_TOKEN in .env.local and ensure you have access to the Figma file.
+
+Q: Storybook not loading components?
+A: Clear cache: rm -rf node_modules/.cache
+
+Q: TypeScript errors after pulling?
+A: Run npm install to update types
+
+Q: Tests failing locally?
+A: Ensure you're on Node 18+ and have latest dependencies
+
+RESOURCES
+---------
+- Figma Design File: [Link in Notion]
+- Jira Board: https://raspberry-coffee.atlassian.net/browse/AUR
+- Slack Channel: #design-system
+- Documentation Site: [Coming soon - Docusaurus]
+- Notion Page: [Internal wiki with detailed specs]
+
+TEAM CONTACTS
+-------------
+If you need help:
+- Technical questions: Julia Novak (julia.novak@raspberry-coffee.com)
+- Design questions: Diego Alvarez (diego.alvarez@raspberry-coffee.com)
+- Project management: Marta Kowalska (marta.kowalska@raspberry-coffee.com)
+- Architecture decisions: Rania Boutros (rania.boutros@raspberry-coffee.com)
+
+NEXT STEPS FOR NEW TEAM MEMBERS
+--------------------------------
+1. Complete onboarding checklist in Notion
+2. Set up local development environment
+3. Review existing components in Storybook
+4. Take a small starter issue from Jira (tagged "good-first-issue")
+5. Attend weekly design system sync (Wednesdays 2pm)
+6. Join #design-system Slack channel
+
+

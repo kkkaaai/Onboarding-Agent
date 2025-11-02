@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HR Onboarding Portal - Raspberry Coffee</title>
+    <link rel="stylesheet" href="styles/hr-portal.css">
+</head>
+<body>
+    <div class="container">
+        <!-- Header -->
+        <header class="header">
+            <div class="logo">
+                <svg width="32" height="32" viewBox="0 0 32 32" fill="none">
+                    <circle cx="16" cy="16" r="14" fill="#2563EB"/>
+                    <path d="M16 8C12.6863 8 10 10.6863 10 14C10 17.3137 12.6863 20 16 20C19.3137 20 22 17.3137 22 14C22 10.6863 19.3137 8 16 8Z" fill="white"/>
+                    <rect x="14" y="18" width="4" height="6" rx="2" fill="white"/>
+                </svg>
+                <span>Raspberry Coffee</span>
+            </div>
+            <div class="header-title">HR Onboarding Portal</div>
+        </header>
+
+        <!-- Main Content -->
+        <main class="main-content">
+            <!-- Onboarding Form -->
+            <div id="form-container" class="form-container">
+                <div class="form-header">
+                    <h1>New Employee Onboarding</h1>
+                    <p>Complete the form below to onboard a new team member</p>
+                </div>
+
+                <form id="onboarding-form" class="onboarding-form">
+                    <!-- Name -->
+                    <div class="form-group">
+                        <label for="name" class="form-label">
+                            Full Name <span class="required">*</span>
+                        </label>
+                        <input 
+                            type="text" 
+                            id="name" 
+                            name="name" 
+                            class="form-input" 
+                            placeholder="Enter full name"
+                            required
+                        >
+                    </div>
+
+                    <!-- Email -->
+                    <div class="form-group">
+                        <label for="email" class="form-label">
+                            Email Address <span class="required">*</span>
+                        </label>
+                        <input 
+                            type="email" 
+                            id="email" 
+                            name="email" 
+                            class="form-input" 
+                            placeholder="email@raspberry-coffee.com"
+                            required
+                        >
+                    </div>
+
+                    <!-- Password -->
+                    <div class="form-group">
+                        <label for="password" class="form-label">
+                            Temporary Password <span class="required">*</span>
+                        </label>
+                        <input 
+                            type="password" 
+                            id="password" 
+                            name="password" 
+                            class="form-input" 
+                            placeholder="Create temporary password"
+                            required
+                        >
+                        <span class="form-hint">Employee will be prompted to change on first login</span>
+                    </div>
+
+                    <!-- Project -->
+                    <div class="form-group">
+                        <label for="project" class="form-label">
+                            Project Assignment <span class="required">*</span>
+                        </label>
+                        <select 
+                            id="project" 
+                            name="project" 
+                            class="form-select"
+                            required
+                        >
+                            <option value="">Select a project...</option>
+                        </select>
+                        <span id="project-description" class="form-hint"></span>
+                    </div>
+
+                    <!-- Role -->
+                    <div class="form-group">
+                        <label for="role" class="form-label">
+                            Role <span class="required">*</span>
+                        </label>
+                        <select 
+                            id="role" 
+                            name="role" 
+                            class="form-select"
+                            required
+                            disabled
+                        >
+                            <option value="">Select a project first...</option>
+                        </select>
+                        <span id="role-description" class="form-hint"></span>
+                    </div>
+
+                    <!-- Submit Button -->
+                    <div class="form-actions">
+                        <button type="submit" class="btn btn-primary">
+                            Begin Onboarding Process
+                        </button>
+                    </div>
+                </form>
+            </div>
+
+            <!-- Progress Container (hidden initially) -->
+            <div id="progress-container" class="progress-container" style="display: none;">
+                <div class="progress-header">
+                    <h2>Onboarding in Progress...</h2>
+                    <p>Setting up everything for the new team member</p>
+                </div>
+
+                <div class="progress-steps">
+                    <div class="progress-step" data-step="profile">
+                        <div class="step-icon">
+                            <div class="spinner"></div>
+                            <svg class="checkmark" width="24" height="24" viewBox="0 0 24 24" fill="none">
+                                <path d="M20 6L9 17L4 12" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                            </svg>
+                        </div>
+                        <div class="step-content">
+                            <div class="step-title">Creating Employee Profile</div>
+                            <div class="step-description">Setting up account and credentials...</div>
+                        </div>
+                    </div>
+
+                    <div class="progress-step" data-step="slack">
+                        <div class="step-icon">
+                            <div class="spinner"></div>
+                            <svg class="checkmark" width="24" height="24" viewBox="0 0 24 24" fill="none">
+                                <path d="M20 6L9 17L4 12" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                            </svg>
+                        </div>
+                        <div class="step-content">
+                            <div class="step-title">Inviting to Slack</div>
+                            <div class="step-description">Adding to relevant channels...</div>
+                        </div>
+                    </div>
+
+                    <div class="progress-step" data-step="github">
+                        <div class="step-icon">
+                            <div class="spinner"></div>
+                            <svg class="checkmark" width="24" height="24" viewBox="0 0 24 24" fill="none">
+                                <path d="M20 6L9 17L4 12" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                            </svg>
+                        </div>
+                        <div class="step-content">
+                            <div class="step-title">Granting GitHub Access</div>
+                            <div class="step-description">Adding to repositories and teams...</div>
+                        </div>
+                    </div>
+
+                    <div class="progress-step" data-step="chatbot">
+                        <div class="step-icon">
+                            <div class="spinner"></div>
+                            <svg class="checkmark" width="24" height="24" viewBox="0 0 24 24" fill="none">
+                                <path d="M20 6L9 17L4 12" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                            </svg>
+                        </div>
+                        <div class="step-content">
+                            <div class="step-title">Setting up AI Assistant</div>
+                            <div class="step-description">Configuring personalized chatbot...</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Success Container (hidden initially) -->
+            <div id="success-container" class="success-container" style="display: none;">
+                <div class="success-icon">
+                    <svg width="64" height="64" viewBox="0 0 64 64" fill="none">
+                        <circle cx="32" cy="32" r="32" fill="#10B981"/>
+                        <path d="M44 24L28 40L20 32" stroke="white" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+                    </svg>
+                </div>
+
+                <h2 class="success-title">Onboarding Complete!</h2>
+                <p class="success-subtitle">All systems are ready for <span id="employee-name-display"></span></p>
+
+                <div class="success-details">
+                    <div class="detail-section">
+                        <h3>Slack Channels</h3>
+                        <div id="slack-channels-list" class="detail-list"></div>
+                    </div>
+
+                    <div class="detail-section">
+                        <h3>GitHub Repositories</h3>
+                        <div id="github-repos-list" class="detail-list"></div>
+                    </div>
+
+                    <div class="detail-section">
+                        <h3>Manager</h3>
+                        <div id="manager-info" class="detail-list"></div>
+                    </div>
+                </div>
+
+                <div class="success-actions">
+                    <button onclick="location.href='employee-portal.html'" class="btn btn-primary">
+                        Go to Employee Portal
+                    </button>
+                    <button onclick="location.reload()" class="btn btn-secondary">
+                        Onboard Another Employee
+                    </button>
+                </div>
+            </div>
+        </main>
+
+        <!-- Footer -->
+        <footer class="footer">
+            <p>&copy; 2025 Raspberry Coffee. All rights reserved.</p>
+        </footer>
+    </div>
+
+    <script type="module" src="js/hr-onboarding.js"></script>
+</body>
+</html>
+
+

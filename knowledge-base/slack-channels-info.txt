@@ -1,0 +1,248 @@
+Raspberry Coffee - Slack Channels Guide
+
+GENERAL CHANNELS
+----------------
+
+#announcements
+Purpose: Company-wide announcements from leadership
+Who's in it: Everyone (mandatory)
+Post frequency: Low (2-3 times per week)
+Posting permissions: Leadership only
+What to expect: Product launches, company updates, all-hands meeting notes
+
+#general
+Purpose: Casual conversation, team bonding, random topics
+Who's in it: Everyone (default)
+Post frequency: High
+Posting permissions: Everyone
+What to expect: Memes, water cooler chat, lunch plans, celebrations
+
+#random
+Purpose: Off-topic fun, hobbies, life outside work
+Who's in it: Everyone (optional)
+Post frequency: Medium
+Posting permissions: Everyone
+What to expect: Pet photos, weekend plans, book/movie recommendations
+
+
+ONBOARDING & HR
+---------------
+
+#onboarding
+Purpose: New employee introductions and first-week support
+Who's in it: All new hires (first 90 days), People Ops team, buddies
+Post frequency: Medium
+Key contacts: Fatima Khan (People Ops), Daniel Okafor (Head of People)
+What to expect: 
+- New hire welcome messages
+- IT setup help
+- Benefits questions
+- First-week tips and resources
+- Buddy program coordination
+
+When to use:
+- Introduce yourself on your first day
+- Ask basic logistics questions (parking, WiFi, equipment)
+- Get help with HR paperwork or benefits enrollment
+- Find your onboarding buddy
+
+
+PRODUCT & DESIGN
+----------------
+
+#design-system
+Purpose: Aurora Design System development, discussions, and updates
+Who's in it: UX team, frontend engineers, product managers
+Post frequency: High (daily activity)
+Key members: 
+- Rania Boutros (UX Lead) - @rania.boutros
+- Diego Alvarez (UX Designer) - @diego.alvarez
+- Julia Novak (Frontend Engineer) - @julia.novak
+- Marta Kowalska (Product Manager) - @marta.kowalska
+What to expect:
+- Component design discussions
+- Figma file updates
+- PR reviews and design feedback
+- Accessibility questions
+- Token sync notifications
+
+When to use:
+- Share design work in progress
+- Ask about component patterns
+- Request design reviews
+- Report bugs or inconsistencies
+- Propose new components or patterns
+
+#ux-team
+Purpose: UX team coordination and collaboration
+Who's in it: Rania Boutros, Diego Alvarez, design system interns
+Post frequency: Medium
+What to expect: Design critiques, user research, team updates
+When to use: UX-specific questions, design discussions
+
+#product
+Purpose: Product strategy, roadmap discussions, feature planning
+Who's in it: Product managers, leadership, key engineers
+Post frequency: Medium
+Key members: Lena Müller (CPO), Marta Kowalska, James Parker
+What to expect: Product specs, user feedback, roadmap updates
+
+
+ENGINEERING
+-----------
+
+#engineering
+Purpose: General engineering discussions, tech talks, architecture
+Who's in it: All engineers, CTOs
+Post frequency: High
+Key members: Ravi Shah (CTO), Victor Fernández, Priya Nair, George Williams
+What to expect: Tech stack discussions, code reviews, deployments
+
+#platform
+Purpose: Backend infrastructure, DevOps, platform architecture
+Who's in it: Platform team + interested engineers
+Post frequency: Medium
+Key members: Victor Fernández (Director), Oliver Brown, Mei Lin, Carlos Jiménez
+What to expect: Infrastructure updates, deployment notifications, incident reports
+
+#frontend
+Purpose: Frontend development, React, web performance
+Who's in it: Frontend engineers, UX team
+Post frequency: Medium
+Key members: Priya Nair (Director), Emily Thompson, Arjun Mehta, Julia Novak
+What to expect: Frontend architecture, performance optimization, library updates
+
+
+PROJECT-SPECIFIC
+----------------
+
+#project-nova
+Purpose: Project Nova (Raspberry Handheld 4 & Bloom OS 4.0) development
+Who's in it: Core Nova team, stakeholders
+Post frequency: High
+What to expect: Sprint planning, Mocha chip updates, feature discussions
+
+#customer-360
+Purpose: Customer 360 data platform development
+Who's in it: Data team, product managers
+Post frequency: Medium
+Key members: George Williams, Laura Evans
+What to expect: Data pipeline updates, analytics discussions
+
+
+COMPANY CULTURE
+---------------
+
+#wins
+Purpose: Celebrate team and individual achievements
+Who's in it: Everyone
+Post frequency: Medium
+Posting permissions: Everyone
+What to expect: Shipped features, closed deals, personal milestones
+
+#coffee-chat
+Purpose: Virtual coffee breaks, random 1-on-1 meetups
+Who's in it: Optional (opt-in)
+Post frequency: Low
+What to expect: Donut bot pairings for virtual coffee chats
+
+#wellness
+Purpose: Health, fitness, mental wellbeing discussions
+Who's in it: Optional
+Post frequency: Low
+What to expect: Workout challenges, meditation tips, mental health resources
+
+
+SOCIAL & INTEREST GROUPS
+-------------------------
+
+#gaming
+Purpose: Gaming discussions, team gaming sessions
+Who's in it: Optional
+Post frequency: Medium
+What to expect: Game recommendations, multiplayer sessions
+
+#books
+Purpose: Book club, reading recommendations
+Who's in it: Optional
+Post frequency: Low
+What to expect: Monthly book discussions, recommendations
+
+#music
+Purpose: Music sharing, concert plans
+Who's in it: Optional
+Post frequency: Medium
+What to expect: Spotify playlists, concert tickets
+
+
+LOCATION-SPECIFIC
+-----------------
+
+#sf-office
+Purpose: San Francisco office coordination
+Who's in it: SF-based employees
+Post frequency: Medium
+What to expect: Office events, lunch plans, commute tips
+
+#remote
+Purpose: Remote work tips, virtual collaboration
+Who's in it: Remote employees
+Post frequency: Medium
+What to expect: Remote work best practices, timezone coordination
+
+
+SLACK ETIQUETTE
+---------------
+
+DO:
+✓ Use threads to keep conversations organized
+✓ Use @channel sparingly (only for urgent, everyone-relevant items)
+✓ Set your status when away/busy/in a meeting
+✓ Use emoji reactions instead of "thanks" messages
+✓ Search before asking (check pinned items and Notion)
+✓ Respond within 24 hours during work days
+
+DON'T:
+✗ Send "hey" without context (just ask your question)
+✗ DM someone who you don't know without intro
+✗ @here or @channel in large channels for non-urgent items
+✗ Cross-post the same message in multiple channels
+✗ Expect instant responses (people may be deep in work)
+
+USEFUL SLACK FEATURES
+---------------------
+
+Slash Commands:
+/remind - Set reminders
+/giphy - Add fun GIFs
+/poll - Create quick polls
+/zoom - Start a Zoom call
+
+Shortcuts:
+Cmd/Ctrl + K - Quick switcher
+Cmd/Ctrl + Shift + A - All unreads
+Cmd/Ctrl + / - Keyboard shortcuts help
+
+Tips:
+- Star important channels for quick access
+- Save messages for later with bookmark icon
+- Use "Do Not Disturb" for focus time
+- Customize your notification settings per channel
+
+
+GETTING HELP
+------------
+
+Technical Issues:
+→ #it-support or DM Peter Adams (IT Manager)
+
+HR Questions:
+→ #onboarding (first 90 days) or DM Fatima Khan (People Ops)
+
+Project-Specific:
+→ Use the relevant project channel
+
+General Questions:
+→ #general or ask your manager/buddy
+
+

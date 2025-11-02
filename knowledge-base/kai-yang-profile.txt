@@ -1,0 +1,91 @@
+RASPBERRY COFFEE - EMPLOYEE PROFILE & PROJECT INFO (KAI YANG)
+==================================================
+
+EMPLOYEE PROFILE - KAI YANG
+------------------------------------
+Name: Kai Yang
+Email: kai.yang@raspberry-coffee.com
+Role: Design System Intern
+Department: Product → UX Team
+Manager: Rania Boutros (UX Lead)
+Project: The Aurora Design System
+Start Date: 2025-02-10
+GitHub Repository: https://github.com/JieHan-eng/aurora-design-system
+Slack Username: @kai.yang
+Status: Active – Internship Program Q1 FY25
+
+Responsibilities:
+- Implement component variants in React + Storybook.
+- Maintain design tokens (Figma Sync).
+- Run accessibility tests (axe-core + Lighthouse).
+- Collaborate with UX and engineering teams to document UI patterns.
+
+------------------------------------
+THE AURORA DESIGN SYSTEM
+------------------------------------
+Overview:
+Aurora Design System is Raspberry Coffee's next-generation design and component
+framework. It delivers a cohesive, accessible, and sensory-rich experience across
+hardware and software. Built as a Figma + React component library, it standardizes
+color tokens, typography, motion, and layout spacing across all Raspberry products.
+
+GitHub Repository:
+https://github.com/JieHan-eng/aurora-design-system
+
+Goals (FY25):
+- Unify product visuals across hardware and software.
+- Build responsive React components following Bloom OS design rules.
+- Integrate automated contrast and keyboard accessibility testing.
+- Publish private NPM package for internal teams.
+- Build documentation site with Storybook + Docusaurus.
+
+Aurora Design System Team Structure:
+---------------
+Project Manager: Marta Kowalska (Product Manager – Core Product)
+Email: marta.kowalska@raspberry-coffee.com
+
+Team Lead: Rania Boutros (UX Lead)
+Email: rania.boutros@raspberry-coffee.com
+
+Engineers:
+- Diego Alvarez (UX Designer)
+  Email: diego.alvarez@raspberry-coffee.com
+- Julia Novak (Frontend Engineer)
+  Email: julia.novak@raspberry-coffee.com
+- Kai Yang (Design System Intern)
+  Email: kai.yang@raspberry-coffee.com
+
+Stakeholder: Lena Müller (CPO)
+Email: lena.mueller@raspberry-coffee.com
+
+------------------------------------
+PROJECT CONTEXT
+------------------------------------
+Company: Raspberry Coffee
+Website: www.raspberry-coffee.com
+Domain: raspberry-coffee.com
+Tagline: Design-led technology that enriches life without complicating it.
+
+Key Strategic Projects:
+- The Aurora Design System (Kai Yang's primary project)
+- Project Nova (Raspberry Handheld 4 with Mocha chip)
+- Customer 360 (Data platform for analytics)
+
+Kai Yang's Team Context:
+- Department: Product
+- Team: UX Team
+- Reports to: Rania Boutros (UX Lead)
+- Project: The Aurora Design System
+- Repository: https://github.com/JieHan-eng/aurora-design-system
+- Project Manager: Marta Kowalska
+
+Common Questions About Kai Yang's Role:
+- "Who's leading the Aurora Design System?" → Rania Boutros (UX Lead)
+- "What are my tasks as Kai Yang?" → Implement React components, maintain design tokens, run accessibility tests
+- "Where's our GitHub repo?" → https://github.com/JieHan-eng/aurora-design-system
+- "What's the goal of the Aurora Design System?" → Unify product visuals and build accessible React components
+- "Who do I report to?" → Rania Boutros (UX Lead)
+- "Who is the project manager?" → Marta Kowalska
+- "Who is the stakeholder?" → Lena Müller (CPO)
+
+

@@ -1,0 +1,293 @@
+Raspberry Coffee - New Employee Onboarding Checklist
+
+Welcome to Raspberry Coffee! This is your roadmap for the first 30 days.
+
+═══════════════════════════════════════════════════════════
+WEEK 1: GETTING STARTED
+═══════════════════════════════════════════════════════════
+
+DAY 1 - First Day Essentials
+----------------------------
+□ Arrive at 9:00 AM (or join video call if remote)
+□ Meet with your manager for welcome chat
+□ Complete HR paperwork with Fatima Khan (People Ops)
+  - I-9 verification
+  - W-4 tax forms
+  - Direct deposit setup
+  - Benefits enrollment
+□ Receive and set up equipment
+  - Laptop (MacBook Pro or Dell XPS)
+  - External monitors
+  - Keyboard, mouse, headphones
+  - Company badge (if in-office)
+□ Set up accounts:
+  - Email: firstname.lastname@raspberry-coffee.com
+  - Slack: Join company workspace
+  - GitHub: Accept org invitation
+  - Notion: Access company wiki
+  - Jira: For project tracking
+  - Figma: For design files (if relevant)
+□ Introduce yourself in #onboarding Slack channel
+□ Meet your onboarding buddy
+□ Attend welcome lunch with your team
+□ Review company handbook in Notion
+
+DAY 2 - Technical Setup & Learning
+-----------------------------------
+□ Complete IT security training
+  - Password manager setup (1Password)
+  - Two-factor authentication (2FA) on all accounts
+  - VPN setup for remote access
+  - Security best practices
+□ Review Raspberry Coffee products:
+  - Handheld (smartphone)
+  - Slate (laptop/desktop hybrid)
+  - Watch (health companion)
+  - Buds & Beats (audio devices)
+  - Bloom OS (operating system)
+□ Watch company overview video (link in Notion)
+□ Read about company values and culture
+□ Explore Slack channels and join relevant ones
+□ Set up local development environment (if engineer)
+  - Clone repositories
+  - Install dependencies
+  - Run projects locally
+  - Review coding standards
+
+DAY 3 - Team & Project Deep Dive
+---------------------------------
+□ 1-on-1 with your direct manager
+  - Discuss role expectations
+  - Review 30-60-90 day goals
+  - Ask questions about team dynamics
+□ Meet with key team members
+  - Schedule intro meetings
+  - Learn about their roles
+  - Understand team structure
+□ Review your project(s) in detail
+  - Read project documentation
+  - Understand current status
+  - Review roadmap and milestones
+□ Attend your first team meeting
+□ Start on a "good first issue" or small task
+  - Ask for starter tasks from your manager
+  - Get familiar with workflows
+
+DAY 4 - Process & Tools Training
+---------------------------------
+□ Learn project management process
+  - How we use Jira/Linear
+  - Sprint planning and standups
+  - Code review process (if engineer)
+□ Understand communication norms
+  - When to use Slack vs. email
+  - Meeting etiquette
+  - How to escalate issues
+□ Review benefits and perks
+  - Health insurance details
+  - 401(k) matching
+  - PTO policy
+  - Professional development budget
+  - Wellness benefits
+□ Shadow a senior team member
+□ Continue working on starter tasks
+
+DAY 5 - End of Week 1 Reflection
+---------------------------------
+□ Complete first week survey (link from People Ops)
+□ Review what you've learned
+□ Write down any lingering questions
+□ Friday team social/happy hour (optional)
+□ Check in with your onboarding buddy
+□ Prepare questions for week 2
+
+
+═══════════════════════════════════════════════════════════
+WEEK 2: DIVING DEEPER
+═══════════════════════════════════════════════════════════
+
+Technical Skills & Knowledge
+----------------------------
+□ Complete role-specific training modules
+□ Review architecture documentation (if engineer)
+□ Understand data flows and integrations
+□ Learn about testing and QA processes
+□ Attend engineering/design demos or showcases
+□ Start contributing to your project
+  - Pick up your first real ticket
+  - Submit your first pull request
+  - Participate in code/design reviews
+
+Cross-Functional Collaboration
+-------------------------------
+□ Meet with stakeholders outside your immediate team:
+  - Product managers
+  - Designers (if you're an engineer)
+  - Engineers (if you're a designer/PM)
+□ Attend cross-functional meetings
+□ Learn about other teams' work
+□ Understand dependencies and handoff processes
+
+Cultural Integration
+--------------------
+□ Attend company all-hands meeting
+□ Join employee resource groups (ERGs) if interested
+□ Participate in team rituals (standups, retros)
+□ Have coffee chats with 2-3 colleagues
+□ Explore office amenities (if on-site)
+
+
+═══════════════════════════════════════════════════════════
+WEEK 3: BUILDING MOMENTUM
+═══════════════════════════════════════════════════════════
+
+□ Take on more substantial tasks
+□ Participate actively in team ceremonies
+□ Share your first update in team meetings
+□ Help review someone else's work
+□ Ask for feedback on your work
+□ Attend optional learning sessions or tech talks
+□ Update your professional development goals with manager
+□ Continue coffee chats (aim for 1-2 per week)
+
+
+═══════════════════════════════════════════════════════════
+WEEK 4: BECOMING AUTONOMOUS
+═══════════════════════════════════════════════════════════
+
+□ Lead a small task or feature independently
+□ Present your work to the team
+□ Contribute to team discussions and planning
+□ Help onboard the next new hire (if applicable)
+□ Complete 30-day check-in with manager
+  - Review accomplishments
+  - Discuss challenges
+  - Adjust goals if needed
+□ Fill out 30-day feedback survey
+
+
+═══════════════════════════════════════════════════════════
+ONGOING (First 90 Days)
+═══════════════════════════════════════════════════════════
+
+Learning & Development
+-----------------------
+□ Identify skills you want to develop
+□ Use your $2,000 professional development budget
+  - Online courses (LinkedIn Learning, Coursera, Udemy)
+  - Books
+  - Conference tickets
+  - Workshops
+□ Find a mentor (can be through formal program or informal)
+□ Attend internal tech talks and brown bags
+□ Contribute to documentation and knowledge sharing
+
+Relationship Building
+---------------------
+□ Have coffee chats with people across the company
+  - Aim for 1-2 per week
+  - Different departments
+  - Different seniority levels
+□ Participate in social channels (#random, #gaming, #wellness)
+□ Attend company events and team outings
+□ Join interest groups or clubs
+
+Performance & Growth
+--------------------
+□ 60-day check-in with manager
+  - Progress review
+  - Feedback session
+  - Goal refinement
+□ 90-day formal review
+  - Self-assessment
+  - Manager feedback
+  - Set goals for next quarter
+□ Begin thinking about your 6-month objectives
+
+
+═══════════════════════════════════════════════════════════
+ROLE-SPECIFIC ADDITIONS
+═══════════════════════════════════════════════════════════
+
+FOR ENGINEERS:
+--------------
+□ Ship your first feature to production
+□ Understand our deployment process
+□ Learn our monitoring and alerting systems
+□ Participate in on-call rotation (after training)
+□ Contribute to architecture discussions
+□ Fix a few bugs to learn the codebase
+
+FOR DESIGNERS:
+--------------
+□ Complete your first design project
+□ Present in design critique sessions
+□ Learn our design system (Aurora)
+□ Understand user research processes
+□ Contribute to the component library
+□ Shadow user research sessions
+
+FOR PRODUCT MANAGERS:
+--------------------
+□ Own a feature from spec to launch
+□ Run your first sprint planning
+□ Present at product review
+□ Conduct stakeholder interviews
+□ Learn analytics and data tools
+□ Define success metrics for your area
+
+FOR DESIGN SYSTEM INTERN (Kai Yang):
+------------------------------------
+□ Set up Aurora Design System locally
+□ Review existing components in Storybook
+□ Complete accessibility testing training
+□ Implement your first component variant
+□ Sync design tokens from Figma
+□ Write tests for a component
+□ Document a component pattern
+□ Attend weekly design system sync meetings
+□ Present your work to the UX team
+
+
+═══════════════════════════════════════════════════════════
+IMPORTANT CONTACTS
+═══════════════════════════════════════════════════════════
+
+Your Manager: (Assigned based on role)
+Onboarding Buddy: (Assigned on Day 1)
+People Ops: Fatima Khan (fatima.khan@raspberry-coffee.com)
+IT Support: Peter Adams (peter.adams@raspberry-coffee.com)
+Head of People & Culture: Daniel Okafor (daniel.okafor@raspberry-coffee.com)
+
+
+═══════════════════════════════════════════════════════════
+HELPFUL RESOURCES
+═══════════════════════════════════════════════════════════
+
+Company Wiki: [Notion workspace]
+Engineering Docs: [Notion or GitHub Wiki]
+Product Roadmap: [Jira/Notion]
+Design System: https://github.com/JieHan-eng/aurora-design-system
+Help Desk: #it-support on Slack
+HR Questions: #onboarding or DM Fatima Khan
+
+
+═══════════════════════════════════════════════════════════
+TIPS FOR SUCCESS
+═══════════════════════════════════════════════════════════
+
+✓ Ask questions - No question is too small
+✓ Take notes - You'll learn a lot quickly
+✓ Be proactive - Don't wait to be told everything
+✓ Build relationships - Get to know your colleagues
+✓ Give yourself grace - It's okay not to know everything
+✓ Speak up in meetings - Your fresh perspective is valuable
+✓ Document as you learn - Help future new hires
+✓ Balance learning with doing - Don't just read, try things
+✓ Set boundaries - Maintain work-life balance from day one
+✓ Have fun - We work hard but also enjoy what we do!
+
+
+Welcome aboard! We're excited to have you at Raspberry Coffee. 🚀☕
+
+

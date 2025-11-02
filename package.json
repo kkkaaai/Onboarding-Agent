@@ -1,0 +1,21 @@
+{
+  "name": "raspberry-coffee-onboarding-chatbot",
+  "version": "1.0.0",
+  "description": "Raspberry Coffee AI-powered employee onboarding chatbot using Anam AI",
+  "type": "module",
+  "scripts": {
+    "upload": "node upload-knowledge-base.js",
+    "serve": "npx http-server -p 8000 -o",
+    "start": "npx http-server -p 8000 -o"
+  },
+  "keywords": [
+    "anam-ai",
+    "chatbot",
+    "onboarding",
+    "ai",
+    "avatar"
+  ],
+  "author": "",
+  "license": "ISC"
+}
+

@@ -1,0 +1,352 @@
+RASPBERRY COFFEE - COMPANY PROFILE & EMPLOYEE DIRECTORY
+=======================================================
+
+COMPANY PROFILE
+---------------
+
+Our Identity:
+Raspberry Coffee is a design-led technology company that believes technology should 
+enrich life without complicating it. We create premium, beautifully crafted devices 
+and a seamless ecosystem that work together in harmony. Our name reflects our 
+philosophy: the simplicity of a perfect raspberry and the rich, familiar comfort 
+of coffee—natural, essential, and a daily joy.
+
+Mission:
+To create beautifully intuitive, human-centered technology that empowers creativity, 
+fosters connection, and seamlessly integrates into the fabric of daily life.
+
+Vision:
+To design and nurture a holistic ecosystem where our devices, software, and services 
+work together so flawlessly that they feel like a natural extension of one's self.
+
+What We Do => The Raspberry Ecosystem
+-----------------------------------
+We don't just sell products; we craft an integrated experience built on three pillars:
+
+Premium Hardware:
+- Raspberry Handheld: Flagship smartphone with minimalist design and industry-leading camera
+- Raspberry Slate: Powerful laptop/desktop hybrid with haptic feedback keyboard
+- Raspberry Watch: Health and wellness companion with clinically-validated metrics
+- Raspberry Buds & Beats: Wireless audio with pristine sound quality
+
+Intuitive Software (Bloom OS):
+- Clean, minimalist operating system powering all Raspberry devices
+- Fluid animations, focus modes, and baked-in privacy
+
+Integrated Services:
+- Raspberry Connect: Secure cloud service with end-to-end encryption
+- Raspberry Arcade: Curated collection of premium, ad-free games
+- Raspberry Stream: Original content focused on creativity and mindfulness
+
+Current Strategic Projects (FY25)
+---------------------------------
+1. Project Nova: Raspberry Handheld 4 & Bloom OS 4.0
+   - Generational leap with new custom "Mocha" chip
+   - Contextual intelligence and predictive assistance
+
+2. The Aurora Design System
+   - Comprehensive evolution of design language across all products
+   - More cohesive and accessible sensory experience
+
+3. Platform Re-Architecture & "Bean" Chipset
+   - Fundamental re-architecting for deeper hardware-software integration
+   - New family of custom silicon processors
+
+4. Health & Wellness Initiatives
+   - New sensor technology for Raspberry Watch
+   - Advanced sleep analysis and mental wellbeing features
+
+5. Enterprise & Education Expansion
+   - Strategic push into corporate and educational environments
+
+6. SOC2 Readiness & Privacy Infrastructure
+   - Enterprise-grade data security for all user information
+
+Our Values: The Core of Raspberry
+---------------------------------
+1. Simplicity is the Ultimate Sophistication:
+   Distilling complex technology into simple, intuitive, and joyful experiences
+
+2. Privacy is a Human Right:
+   Products designed to protect user data with transparency
+
+3. Deeply Integrated, Not Merely Connected:
+   Magical cohesion between all devices and services
+
+4. Craft in Every Detail:
+   Obsession with craftsmanship in materials, code, and user interactions
+
+Contact Information
+-------------------
+Website: www.raspberry-coffee.com
+Product Inquiries: media@raspberry-coffee.com
+Career Opportunities: careers@raspberry-coffee.com
+
+EMPLOYEE DIRECTORY
+==================
+
+EXECUTIVE TEAM
+--------------
+Amelia Carter (CEO)
+- Email: amelia.carter@raspberry-coffee.com
+- Department: Executive
+- Team: Executive
+- Project: Company Strategy FY25
+- Hire Date: 2019-02-11
+- Reports to: -
+
+Ravi Shah (CTO)
+- Email: ravi.shah@raspberry-coffee.com
+- Department: Technology
+- Team: Technology Lead
+- Project: Platform Re-Architecture
+- Hire Date: 2020-05-04
+- Reports to: Amelia Carter
+
+Lena Müller (CPO)
+- Email: lena.mueller@raspberry-coffee.com
+- Department: Product
+- Team: Product Lead
+- Project: NovaSuite 2.0
+- Hire Date: 2021-01-18
+- Reports to: Amelia Carter
+
+Marcus O'Connor (COO)
+- Email: marcus.oconnor@raspberry-coffee.com
+- Department: Operations
+- Team: Operations Lead
+- Projects: SOC2 Readiness, Vendor Management
+- Hire Date: 2020-09-28
+- Reports to: Amelia Carter
+
+Sophia Rossi (CFO)
+- Email: sophia.rossi@raspberry-coffee.com
+- Department: Finance
+- Team: Finance Lead
+- Project: FY26 Budgeting
+- Hire Date: 2019-11-07
+- Reports to: Amelia Carter
+
+Daniel Okafor (Head of People & Culture)
+- Email: daniel.okafor@raspberry-coffee.com
+- Department: HR
+- Team: HR
+- Projects: Talent Revamp, L&D Program
+- Hire Date: 2022-02-14
+- Reports to: Amelia Carter
+
+Hannah Kim (VP Sales)
+- Email: hannah.kim@raspberry-coffee.com
+- Department: Sales
+- Team: Sales Leadership
+- Projects: EMEA Expansion, Q4 Pipeline
+- Hire Date: 2021-06-21
+- Reports to: Amelia Carter
+
+ENGINEERING DEPARTMENT
+----------------------
+Reporting to Ravi Shah (CTO):
+
+Platform Team (Reports to Victor Fernández):
+Victor Fernández (Director of Platform Eng)
+- Email: victor.fernandez@raspberry-coffee.com
+- Project: Platform Re-Architecture
+- Hire Date: 2020-11-16
+
+Oliver Brown (Senior Platform Engineer)
+- Email: oliver.brown@raspberry-coffee.com
+- Project: Platform Re-Architecture
+- Hire Date: 2020-12-07
+
+Mei Lin (Platform Engineer)
+- Email: mei.lin@raspberry-coffee.com
+- Project: Service Mesh Rollout
+- Hire Date: 2023-04-03
+
+Carlos Jiménez (Platform Engineer)
+- Email: carlos.jimenez@raspberry-coffee.com
+- Project: CI/CD Hardening
+- Hire Date: 2024-02-19
+
+Yuki Tanaka (Security Engineer)
+- Email: yuki.tanaka@raspberry-coffee.com
+- Project: SOC2 Readiness
+- Hire Date: 2022-08-01
+
+Applications Team (Reports to Priya Nair):
+Priya Nair (Director of Application Eng)
+- Email: priya.nair@raspberry-coffee.com
+- Project: Mobile App Modernization
+- Hire Date: 2021-03-29
+
+Emily Thompson (Senior Software Engineer)
+- Email: emily.thompson@raspberry-coffee.com
+- Project: Web Portal Revamp
+- Hire Date: 2021-08-09
+
+Arjun Mehta (Software Engineer)
+- Email: arjun.mehta@raspberry-coffee.com
+- Project: Mobile App Modernization
+- Hire Date: 2022-05-23
+
+Julia Novak (Software Engineer)
+- Email: julia.novak@raspberry-coffee.com
+- Project: Customer Onboarding Portal
+- Hire Date: 2023-09-11
+
+Samir Al-Hassan (QA Engineer)
+- Email: samir.alhassan@raspberry-coffee.com
+- Project: Test Automation Suite
+- Hire Date: 2024-06-17
+
+Data Team (Reports to George Williams):
+George Williams (Director of Data & Analytics)
+- Email: george.williams@raspberry-coffee.com
+- Projects: Customer 360, BI Dashboards
+- Hire Date: 2022-01-10
+
+Laura Evans (Data Engineer)
+- Email: laura.evans@raspberry-coffee.com
+- Project: Customer 360 Data Lake
+- Hire Date: 2022-03-14
+
+Tobias Schneider (Analytics Engineer)
+- Email: tobias.schneider@raspberry-coffee.com
+- Project: BI Dashboards v3
+- Hire Date: 2023-01-30
+
+Nia Johnson (ML Engineer)
+- Email: nia.johnson@raspberry-coffee.com
+- Project: Churn Prediction Model
+- Hire Date: 2024-05-06
+
+Rafael Costa (Data Analyst)
+- Email: rafael.costa@raspberry-coffee.com
+- Project: Product Analytics
+- Hire Date: 2024-09-23
+
+PRODUCT DEPARTMENT
+------------------
+Reporting to Lena Müller (CPO):
+
+Marta Kowalska (Product Manager)
+- Email: marta.kowalska@raspberry-coffee.com
+- Team: Core Product
+- Project: NovaSuite 2.0
+- Hire Date: 2021-04-12
+
+James Parker (Product Manager)
+- Email: james.parker@raspberry-coffee.com
+- Team: Growth
+- Project: Self-Serve Onboarding
+- Hire Date: 2022-07-18
+
+UX Team:
+Rania Boutros (UX Lead)
+- Email: rania.boutros@raspberry-coffee.com
+- Team: UX
+- Project: Design System "Aurora"
+- Hire Date: 2021-10-25
+
+Diego Alvarez (UX Designer)
+- Email: diego.alvarez@raspberry-coffee.com
+- Team: UX
+- Project: Web Portal Revamp
+- Hire Date: 2023-02-20
+- Reports to: Rania Boutros
+
+SALES DEPARTMENT
+----------------
+Reporting to Hannah Kim (VP Sales):
+
+Chloe Martin (Sales Manager - EMEA)
+- Email: chloe.martin@raspberry-coffee.com
+- Team: EMEA
+- Project: EMEA Expansion
+- Hire Date: 2022-09-05
+
+Ahmed Hassan (Account Executive)
+- Email: ahmed.hassan@raspberry-coffee.com
+- Team: EMEA
+- Project: Q4 Pipeline
+- Hire Date: 2024-01-15
+- Reports to: Chloe Martin
+
+Ben Turner (Account Executive)
+- Email: ben.turner@raspberry-coffee.com
+- Team: NA
+- Project: Enterprise Renewals
+- Hire Date: 2021-11-08
+
+Sofia Petrova (Sales Operations Analyst)
+- Email: sofia.petrova@raspberry-coffee.com
+- Team: Sales Ops
+- Projects: CRM Cleanup, Territory Planning
+- Hire Date: 2023-06-12
+
+HR DEPARTMENT
+-------------
+Reporting to Daniel Okafor:
+
+Olivera Jovanović (HR Business Partner)
+- Email: olivera.jovanovic@raspberry-coffee.com
+- Team: HR
+- Project: Talent Revamp
+- Hire Date: 2023-03-27
+
+Jack Wilson (Talent Acquisition Specialist)
+- Email: jack.wilson@raspberry-coffee.com
+- Team: Recruiting
+- Project: Tech Hiring FY25
+- Hire Date: 2024-04-08
+
+Fatima Khan (People Ops Coordinator)
+- Email: fatima.khan@raspberry-coffee.com
+- Team: People Ops
+- Project: Onboarding Process
+- Hire Date: 2024-08-19
+
+FINANCE DEPARTMENT
+------------------
+Reporting to Sophia Rossi:
+
+Henry Clarke (Finance Manager)
+- Email: henry.clarke@raspberry-coffee.com
+- Team: FP&A
+- Project: FY26 Budgeting
+- Hire Date: 2022-11-14
+
+Giulia Conti (Senior Accountant)
+- Email: giulia.conti@raspberry-coffee.com
+- Team: Accounting
+- Projects: Monthly Close, AP/AR
+- Hire Date: 2021-02-15
+
+OPERATIONS DEPARTMENT
+---------------------
+Reporting to Marcus O'Connor:
+
+IT Team:
+Peter Adams (IT Manager)
+- Email: peter.adams@raspberry-coffee.com
+- Team: IT
+- Projects: Endpoints, SSO Rollout
+- Hire Date: 2020-10-19
+
+Aisha Bello (Systems Administrator)
+- Email: aisha.bello@raspberry-coffee.com
+- Team: IT
+- Project: Device Lifecycle Management
+- Hire Date: 2023-01-16
+- Reports to: Peter Adams
+
+Tomáš Dvořák (Workplace Coordinator)
+- Email: tomas.dvorak@raspberry-coffee.com
+- Team: Office
+- Project: Office Move Q1
+- Hire Date: 2024-02-05
+
+TOTAL EMPLOYEES: 38
+LAST UPDATED: 2024
+
+
